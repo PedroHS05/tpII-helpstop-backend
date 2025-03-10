@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelpApp.Domain
+namespace HelpApp.Aplication
 {
     public class Class1
     {
