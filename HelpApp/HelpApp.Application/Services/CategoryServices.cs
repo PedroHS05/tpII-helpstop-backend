@@ -40,5 +40,6 @@ namespace HelpApp.Application.Services
         {
             throw new NotImplementedException();
         }
+        //teste
     }
 }

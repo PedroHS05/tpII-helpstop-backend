@@ -11,5 +11,6 @@ namespace HelpApp.Application.Interfaces
         Task Add(CategoryDTO categoryDto);
         Task Update(CategoryDTO categoryDto);
         Task Remove(int? id);
+        //teste
     }
 }
